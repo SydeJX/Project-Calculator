@@ -16,7 +16,7 @@ var zero = document.getElementById('Zero');
 var point = document.getElementById('point');
 var equel = document.getElementById('Equel');
 
-function Onclick(){
-if(slash.onlick)
-display.value =+ '/';
+function Calculate(){
+slash.onclick
+
 }
