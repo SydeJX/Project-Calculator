@@ -16,7 +16,7 @@ var zero = document.getElementById('Zero');
 var point = document.getElementById('point');
 var equel = document.getElementById('Equel');
 
-function Calculate(){
+function Calculate() {
 
 
 }
